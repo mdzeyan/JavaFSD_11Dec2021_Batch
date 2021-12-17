@@ -1,0 +1,11 @@
+Data Type    Wrapper Class  Size         Range
+
+byte         Byte           1 byte      -128 to 127
+short        Short          2 bytes     -32768 to 32767
+int          Integer        4 bytes     -2147483648 to 2147483647
+long         Long           8 bytes     -9223372036854775808 to 9223372036854775807
+float        Float          4 bytes     -2147483648 to 2147483647
+double       Double         8 bytes     -9223372036854775808 to 9223372036854775807
+char         Character      2 bytes     -32768 to 32767
+bool         Boolean        1 bit        Stores true or false values
+String       String         depend on string
